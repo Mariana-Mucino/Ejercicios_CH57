@@ -6,3 +6,4 @@ Lista de tareas
 5. Comida
 6. cortar cabello
 7. cancelar tarjeta
+8. gym
